@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Where the Conversation Might Begin
+title: "Where the Conversation Might Begin"
 date: 2021-05-14
 img: OOT1613.jpg
 description: There is a lot of conversation about where the conversation might start.
